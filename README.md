@@ -1,20 +1,88 @@
-- 👋 Hi, I’m Alireza! , I'm a Junior Android Developer passionate about building intuitive and user-friendly mobile applications. I love exploring new technologies and continuously improving my skills in Android development.
-- 👀 I’m interested in Android Development
-- 💻 I have experience with Android Studio, Kotlin, and various Android libraries.
-- 🌱 I’m currently learning Kotlin and exploring Jetpack Compose.
-- 💞️ I’m looking to collaborate on the development of Android applications
-- - 🎯 My goal is to create applications that enhance user experience and solve real-world problems.
-- 📫 How to reach me @33Alireza
-- 😄 Pronouns: ????
-- ⚡ Fun fact: I have stated to creat a kotlin source code with examples and explainations on purpose to improve development for myself and anyone who use this source code and i will share it as a repo in my GitHub account 🖥️💻
+<!-- Profile -->
 
-## 🛠️ Technologies & Tools
+<h1 align="center">👋 Hi, I'm <span style="color:#007acc">Alireza Yousefzadeh</span></h1>
+<h3 align="center">🧑‍💻Junior Android Developer | Kotlin | Jetpack Compose</h3>
 
-- **Languages**: Kotlin, Java, JavaScript
-- **Frameworks**: Android SDK, Jetpack Compose, React Native
-- **Tools**: Android Studio, Git, Firebase
-- **APIs**: RESTful APIs, Google Maps API
-- **Databases**: SQLite, Room
+---
+
+## 💡 About Me
+
+I'm a Junior Android Developer passionate about building intuitive and user-friendly mobile applications. I love exploring new technologies and continuously improving my skills in Android development.
+
+🧠 I specialize in:
+
+- ⚙️ **Android Development**
+- 🧩 **Kotlin MultiPlatform**
+- 🖼️ **Cross-Platform Apps**
+
+---
+
+### 🚀 Tech Stack
+
+#### 🧱 Languages & Frameworks
+
+<div>
+<table>
+  <tr>
+    <td align="center"><img src="https://icon.icepanel.io/Technology/svg/Kotlin.svg" width="24" alt="Kotlin"/><br>Kotlin</td>
+    <td align="center"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjC97Z8BResg5dlPqczsRCFhP6zewWX0X0e7fVPG-G7PuUZwwZVsi9OPoqJYkgqT2h0FI95SsmWzVEgpt8b8HAqFiIxZ98TFtY4lE0b8UrtVJ2HrJebRwl6C9DslsQDl9KnBIrdHS6LtkY/s1600/jetpack+compose+icon_RGB.png"  width="24" alt="Jetpack Compose"/><br>Jetpack Compose</td>
+    <td align="center"><img src="https://icon.icepanel.io/Technology/svg/Java.svg" width="24" alt="Java"/><br>Java</td>
+    <td align="center"><img src="https://icon.icepanel.io/Technology/svg/Dart.svg" width="24" alt="Dart"/><br>Dart</td>
+    <td align="center"><img src="https://icon.icepanel.io/Technology/svg/Flutter.svg" width="24" alt="Flutter"/><br>Flutter</td>
+    <td align="center"><img src="https://icon.icepanel.io/Technology/svg/JavaScript.svg" width="24" alt="JavaScript"/><br>JavaScript</td>
+    <td align="center"><img src="https://icon.icepanel.io/Technology/svg/React.svg" width="24" alt="React Native"/><br>React Native</td>
+  </tr>
+</table>
+</div>
+
+#### 🛒 Android Development
+
+<div>
+<table>
+  <tr>
+    <td align="center"><img src="https://icon.icepanel.io/Technology/svg/Android.svg" width="24" alt="Android"/><br>Android</td>
+    <td align="center"><img src="https://icon.icepanel.io/Technology/png-shadow-512/Android-Studio.png" width="24" alt="Android Studio"/><br>Android Studio</td>
+    <td align="center"><img src="https://icon.icepanel.io/Technology/svg/Ktor.svg" width="24" alt="ktor"/><br>Ktor</td>
+    <td align="center"><img src="https://icon.icepanel.io/Technology/png-shadow-512/SQLite.png" width="24" alt="SQLite"/><br>SQLite</td>
+    <td align="center"><img src="https://icon.icepanel.io/Technology/png-shadow-512/Gradle.png" width="24" alt="Gradle"/><br>Gradle</td>
+    <td align="center"><img src="https://icon.icepanel.io/Technology/svg/Firebase.svg" width="24" alt="Firebase"/><br>Firebase</td>
+  
+  </tr>
+</table>
+</div>
+
+#### 🤖 Operating System
+
+<div>
+<table>
+  <tr>
+    <td align="center"><img src="https://icon.icepanel.io/Technology/png-shadow-512/Linux.png" width="24" alt="Linux"/><br>Linux</td>
+    <td align="center"><img src="https://icon.icepanel.io/Technology/svg/Ubuntu.svg" width="24" alt="Ubunto"/><br>Ubunto</td>
+    <td align="center"><img src="https://icon.icepanel.io/Technology/svg/Windows-11.svg" width="24" alt="Windows 11"/><br>Windows 11</td>
+  </tr>
+</table>
+</div>
+
+### 🧪 Version Control
+
+<div>
+<table>
+  <tr>
+    <td align="center"><img src="https://icon.icepanel.io/Technology/svg/Git.svg" width="24" alt="Git"/><br>Git</td>
+    <td align="center"><img src="https://icon.icepanel.io/Technology/png-shadow-512/GitHub.png" width="24" alt="GitHub"/><br>GitHub</td>
+    <td align="center"><img src="https://icon.icepanel.io/Technology/svg/GitLab.svg" width="24" alt="GitLab"/><br>GitLab</td>
+  </tr>
+</table>
+</div>
+
+---
+
+## 🎯 Goals
+
+## - My dream job is working as a sofrware engineer in JetBrains and i will achive my goal
+ <img src="https://icon.icepanel.io/Technology/svg/JetBrains.svg" alt="JetBrains icon" height="124" width="124">
+
+---
 
 ## 📂 Projects
 
@@ -35,7 +103,7 @@ Here are some of the projects I've worked on:
 
 Feel free to reach out if you want to collaborate on a project or just want to chat about Android development!
 
-## 🌟 Let's Connect!
+## 🤝 Let's Connect!
 
 I'm always open to learning and collaborating with others. If you have any suggestions or feedback, please let me know!
 
