@@ -20,23 +20,18 @@
 
 Here are some of the projects I've worked on:
 
-1. **[Project Name 1](link-to-your-project)**
-   - Description: A brief description of what the project does.
-   - Technologies Used: Kotlin, Android SDK, Firebase
+1. **[KotlinFinity](https://github.com/33Alireza/KotlinFinity)**
+   - KotlinFinity is a collection of Kotlin basics, examples, and explanations -- built to help beginners learn kotlin from scratch and explore its infinite possibilities.
 
-2. **[Project Name 2](link-to-your-project)**
-   - Description: A brief description of what the project does.
-   - Technologies Used: Java, Retrofit, SQLite
-
-3. **[Project Name 3](link-to-your-project)**
-   - Description: A brief description of what the project does.
-   - Technologies Used: Kotlin, Jetpack Compose, Room
+2. **[ArayRento](https://github.com/ArayDevelopment/ArayRento)**
+   - This repository contains a clean PHP (MVC) + MySQL real‑estate web app with property submission, multi‑image upload, and Persian (Jalali) date support.
   
 ## 📫 Get in Touch
 
-- **LinkedIn**: [Alireza Yousefzadeh](https://www.linkedin.com/in/alireza-yousefzadeh-0a775b2ba?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-- **Instagram**: [33allireza](https://www.instagram.com/33allireza)
-- **Email**: [thegeisha2006@gmail.com](thegeisha2006@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alireza-yousefzadeh-0a775b2ba?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/33allireza)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/thegeisha2006@gmail.com)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/33Alireza)
 
 Feel free to reach out if you want to collaborate on a project or just want to chat about Android development!
 
