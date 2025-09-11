@@ -1,17 +1,17 @@
 <!-- Profile -->
 
 <h1 align="center">👋 Hi, I'm <span style="color:#007acc">Alireza Yousefzadeh</span></h1>
-<h3 align="center">🧑‍💻Junior Android Developer | Kotlin | Jetpack Compose</h3>
+<h3 align="center">🧑‍💻Junior Mobile Sofrware Engineer | Android Developer | Cross-Platform Developer</h3>
 
 ---
 
 ## 💡 About Me
 
-I'm a Junior Android Developer passionate about building intuitive and user-friendly mobile applications. I love exploring new technologies and continuously improving my skills in Android development.
+I'm a Junior Mobile Sofrware Engineer passionate about building intuitive and user-friendly mobile applications. I love exploring new technologies and continuously improving my skills in Mobile development. 🖥️💻
 
 🧠 I specialize in:
 
-- ⚙️ **Android Development**
+- 📱 **Android Development**
 - 🧩 **Kotlin MultiPlatform**
 - 🖼️ **Cross-Platform Apps**
 
@@ -31,6 +31,7 @@ I'm a Junior Android Developer passionate about building intuitive and user-frie
     <td align="center"><img src="https://icon.icepanel.io/Technology/svg/Flutter.svg" width="24" alt="Flutter"/><br>Flutter</td>
     <td align="center"><img src="https://icon.icepanel.io/Technology/svg/JavaScript.svg" width="24" alt="JavaScript"/><br>JavaScript</td>
     <td align="center"><img src="https://icon.icepanel.io/Technology/svg/React.svg" width="24" alt="React Native"/><br>React Native</td>
+    <td align="center"><img src="https://icon.icepanel.io/Technology/svg/Swift.svg" width="24" alt="Swift"/><br>Swift</td>
   </tr>
 </table>
 </div>
@@ -100,6 +101,7 @@ Here are some of the projects I've worked on:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/33allireza)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/thegeisha2006@gmail.com)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/33Alireza)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/Allireza44)
 
 Feel free to reach out if you want to collaborate on a project or just want to chat about Android development!
 
