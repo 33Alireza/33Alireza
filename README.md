@@ -97,11 +97,9 @@ Here are some of the projects I've worked on:
   
 ## 📫 Get in Touch
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alireza-yousefzadeh-0a775b2ba?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/33allireza)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/thegeisha2006@gmail.com)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/33Alireza)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/Allireza44)
+<p align="center">
+  <a href="https://www.linkedin.com/in/alireza-yousefzadeh-0a775b2ba?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.icons8.com/color/28/linkedin.png"/></a>
+</p>
 
 Feel free to reach out if you want to collaborate on a project or just want to chat about Android development!
 
