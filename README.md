@@ -98,7 +98,7 @@ Here are some of the projects I've worked on:
 ## 📫 Get in Touch
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/alireza-yousefzadeh-0a775b2ba?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.icons8.com/color/28/linkedin.png"/></a>
+  <a href="https://www.linkedin.com/in/33alireza"><img src="https://img.icons8.com/color/28/linkedin.png"/></a>
 </p>
 
 Feel free to reach out if you want to collaborate on a project or just want to chat about Android development!
