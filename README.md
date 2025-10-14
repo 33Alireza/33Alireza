@@ -1,17 +1,17 @@
 <!-- Profile -->
 
 <h1 align="center">👋 Hi, I'm <span style="color:#007acc">Alireza Yousefzadeh</span></h1>
-<h3 align="center">🧑‍💻Junior Mobile Sofrware Engineer | Android Developer | Cross-Platform Developer</h3>
+<h3 align="center">🧑‍💻Sofrware Engineer | Android & IOS Developer | Cross-Platform Developer</h3>
 
 ---
 
 ## 💡 About Me
 
-I'm a Junior Mobile Sofrware Engineer passionate about building intuitive and user-friendly mobile applications. I love exploring new technologies and continuously improving my skills in Mobile development. 🖥️💻
+I'm a Sofrware Engineer passionate about building intuitive and user-friendly mobile applications. I love exploring new technologies and continuously improving my skills in Mobile development. 🖥️💻
 
 🧠 I specialize in:
 
-- 📱 **Android Development**
+- 📱 **Android & IOS Development**
 - 🧩 **Kotlin MultiPlatform**
 - 🖼️ **Cross-Platform Apps**
 
@@ -29,9 +29,9 @@ I'm a Junior Mobile Sofrware Engineer passionate about building intuitive and us
     <td align="center"><img src="https://icon.icepanel.io/Technology/svg/Java.svg" width="24" alt="Java"/><br>Java</td>
     <td align="center"><img src="https://icon.icepanel.io/Technology/svg/Dart.svg" width="24" alt="Dart"/><br>Dart</td>
     <td align="center"><img src="https://icon.icepanel.io/Technology/svg/Flutter.svg" width="24" alt="Flutter"/><br>Flutter</td>
+    <td align="center"><img src="https://icon.icepanel.io/Technology/svg/Swift.svg" width="24" alt="Swift"/><br>Swift</td>
     <td align="center"><img src="https://icon.icepanel.io/Technology/svg/JavaScript.svg" width="24" alt="JavaScript"/><br>JavaScript</td>
     <td align="center"><img src="https://icon.icepanel.io/Technology/svg/React.svg" width="24" alt="React Native"/><br>React Native</td>
-    <td align="center"><img src="https://icon.icepanel.io/Technology/svg/Swift.svg" width="24" alt="Swift"/><br>Swift</td>
   </tr>
 </table>
 </div>
