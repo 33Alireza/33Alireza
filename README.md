@@ -1,7 +1,7 @@
 <!-- Profile -->
 
 <h1 align="center">👋 Hi, I'm <span style="color:#007acc">Alireza Yousefzadeh</span></h1>
-<h3 align="center">🧑‍💻Sofrware Engineer | Android & IOS Developer | Cross-Platform Developer</h3>
+<h3 align="center">🧑‍💻Sofrware Engineer | Android & iOS Developer | Cross-Platform Developer</h3>
 
 ---
 
