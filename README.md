@@ -7,7 +7,7 @@
 
 ## 💡 About Me
 
-I'm a Sofrware Engineer passionate about building intuitive and user-friendly mobile applications. I love exploring new technologies and continuously improving my skills in Mobile development. 🖥️💻
+I'm a Software Engineer passionate about building intuitive and user-friendly mobile applications. I love exploring new technologies and continuously improving my skills in Mobile development. 🖥️💻
 
 🧠 I specialize in:
 
