@@ -79,6 +79,15 @@ I'm a Sofrware Engineer passionate about building intuitive and user-friendly mo
 
 ---
 
+## 📈 GitHub Insights
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=33alireza&show_icons=true&theme=tokyonight&count_private=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=33alireza&layout=compact&theme=tokyonight" height="160"/>
+</div>
+
+---
+
 ## 🎯 Goals
 
 ## - My dream job is working as a sofrware engineer in JetBrains and i will achive my goal
