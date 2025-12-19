@@ -26,8 +26,6 @@ I'm a Software Engineer passionate about building intuitive and user-friendly mo
   <tr>
     <td align="center"><img src="https://icon.icepanel.io/Technology/svg/Android.svg" width="24" alt="Android"/><br>Android</td>
     <td align="center"><img src="https://icon.icepanel.io/Technology/svg/Kotlin.svg" width="24" alt="Kotlin"/><br>Kotlin</td>
-    <td align="center"><img src="https://icon.icepanel.io/Technology/svg/Java.svg" width="24" alt="Java"/><br>Java</td>
-    <td align="center"><img src="https://icon.icepanel.io/Technology/svg/Spring.svg" width="24" alt="Spring Boot"/><br>Spring Boot</td>
     <td align="center"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjC97Z8BResg5dlPqczsRCFhP6zewWX0X0e7fVPG-G7PuUZwwZVsi9OPoqJYkgqT2h0FI95SsmWzVEgpt8b8HAqFiIxZ98TFtY4lE0b8UrtVJ2HrJebRwl6C9DslsQDl9KnBIrdHS6LtkY/s1600/jetpack+compose+icon_RGB.png"    width="24" alt="Jetpack Compose"/><br>Jetpack Compose</td>
     <td align="center"><img src="https://icon.icepanel.io/Technology/png-shadow-512/Android-Studio.png" width="24" alt="Android Studio"/><br>Android Studio</td>
     <td align="center"><img src="https://icon.icepanel.io/Technology/svg/Ktor.svg" width="24" alt="ktor"/><br>Ktor</td>
