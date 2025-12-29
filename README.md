@@ -19,61 +19,13 @@ I'm a Software Engineer passionate about building intuitive and user-friendly mo
 
 ### 🚀 Tech Stack
 
-#### 🤖 Android Development
+#### 🤖 Languages & Frameworks
 
-<div>
-<table>
-  <tr>
-    <td align="center"><img src="https://icon.icepanel.io/Technology/svg/Android.svg" width="24" alt="Android"/><br>Android</td>
-    <td align="center"><img src="https://icon.icepanel.io/Technology/svg/Kotlin.svg" width="24" alt="Kotlin"/><br>Kotlin</td>
-    <td align="center"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjC97Z8BResg5dlPqczsRCFhP6zewWX0X0e7fVPG-G7PuUZwwZVsi9OPoqJYkgqT2h0FI95SsmWzVEgpt8b8HAqFiIxZ98TFtY4lE0b8UrtVJ2HrJebRwl6C9DslsQDl9KnBIrdHS6LtkY/s1600/jetpack+compose+icon_RGB.png"    width="24" alt="Jetpack Compose"/><br>Jetpack Compose</td>
-    <td align="center"><img src="https://icon.icepanel.io/Technology/png-shadow-512/Android-Studio.png" width="24" alt="Android Studio"/><br>Android Studio</td>
-    <td align="center"><img src="https://icon.icepanel.io/Technology/svg/Ktor.svg" width="24" alt="ktor"/><br>Ktor</td>
-    <td align="center"><img src="https://icon.icepanel.io/Technology/png-shadow-512/SQLite.png" width="24" alt="SQLite"/><br>SQLite</td>
-    <td align="center"><img src="https://icon.icepanel.io/Technology/png-shadow-512/Gradle.png" width="24" alt="Gradle"/><br>Gradle</td>
-    <td align="center"><img src="https://icon.icepanel.io/Technology/svg/Firebase.svg" width="24" alt="Firebase"/><br>Firebase</td>
+[![My Skills](https://skillicons.dev/icons?i=kotlin,ktor,js,java,swift,dart,flutter)](https://skillicons.dev)
 
-  </tr>
-</table>
-</div>
+### 🧪 Tools
 
-#### 🍏 iOS Development
-
-<div>
-<table>
-  <tr>
-    <td align="center"><img src="https://icon.icepanel.io/Technology/png-shadow-512/Apple.png" width="24" alt="iOS"/><br>iOS</td>
-    <td align="center"><img src="https://icon.icepanel.io/Technology/svg/Swift.svg" width="24" alt="Swift"/><br>Swift</td>
-  </tr>
-</table>
-</div>
-
-#### 🌐 Cross-Platform Development
-
-<div>
-<table>
-  <tr>
-    <td align="center"><img src="https://lp.jetbrains.com/static/2021/03/23/155113-0.15265793.png" width="24" alt="KMP"/><br>Kotlin Multiplatform</td>
-    <td align="center"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjC97Z8BResg5dlPqczsRCFhP6zewWX0X0e7fVPG-G7PuUZwwZVsi9OPoqJYkgqT2h0FI95SsmWzVEgpt8b8HAqFiIxZ98TFtY4lE0b8UrtVJ2HrJebRwl6C9DslsQDl9KnBIrdHS6LtkY/s1600/jetpack+compose+icon_RGB.png"  width="24" alt="CMP"/><br>Compose Multiplatform</td>
-    <td align="center"><img src="https://icon.icepanel.io/Technology/svg/Dart.svg" width="24" alt="Dart"/><br>Dart</td>
-    <td align="center"><img src="https://icon.icepanel.io/Technology/svg/Flutter.svg" width="24" alt="Flutter"/><br>Flutter</td>
-    <td align="center"><img src="https://icon.icepanel.io/Technology/svg/JavaScript.svg" width="24" alt="JavaScript"/><br>JavaScript</td>
-    <td align="center"><img src="https://icon.icepanel.io/Technology/svg/React.svg" width="24" alt="React Native"/><br>React Native</td>
-  </tr>
-</table>
-</div>
-
-### 🧪 Version Control
-
-<div>
-<table>
-  <tr>
-    <td align="center"><img src="https://icon.icepanel.io/Technology/svg/Git.svg" width="24" alt="Git"/><br>Git</td>
-    <td align="center"><img src="https://icon.icepanel.io/Technology/png-shadow-512/GitHub.png" width="24" alt="GitHub"/><br>GitHub</td>
-    <td align="center"><img src="https://icon.icepanel.io/Technology/svg/GitLab.svg" width="24" alt="GitLab"/><br>GitLab</td>
-  </tr>
-</table>
-</div>
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,firebase,gradle,idea,sqlite,vscode,notion,git,github,gitlab,appwrite,figma,md)](https://skillicons.dev)
 
 ---
 
