@@ -32,8 +32,21 @@ I'm a Software Engineer passionate about building intuitive and user-friendly mo
 ## 📈 GitHub Insights
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=33alireza&show_icons=true&theme=tokyonight&count_private=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=33alireza&layout=compact&theme=tokyonight" height="160"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=33alireza&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&rank_icon=github" alt="GitHub stats" />
+  <img height="170" src="https://streak-stats.demolab.com?user=33alireza&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</div>
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=33alireza&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=33alireza&theme=tokyonight" alt="Productive time" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=33alireza&theme=tokyo-night&hide_border=true&area=true" alt="Activity graph" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=33alireza&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies" />
 </div>
 
 ---
