@@ -1,7 +1,7 @@
 <!-- Profile -->
 
 <h1 align="center">👋 Hi, I'm <span style="color:#007acc">Alireza Yousefzadeh</span></h1>
-<h3 align="center">🧑‍💻Sofrware Engineer | Android & iOS Developer | Cross-Platform Developer</h3>
+<h3 align="center">🧑‍💻Software Engineer | Android & iOS Developer | Cross-Platform Developer</h3>
 
 ---
 
@@ -9,7 +9,7 @@
 
 I'm a Software Engineer passionate about building intuitive and user-friendly mobile applications. I love exploring new technologies and continuously improving my skills in Mobile development. 🖥️💻
 
-🧠 I specialize in:
+🧠 I'm currently learning :
 
 - 📱 **Android & IOS Development**
 - 🧩 **Kotlin MultiPlatform**
@@ -53,7 +53,7 @@ I'm a Software Engineer passionate about building intuitive and user-friendly mo
 
 ## 🎯 Goals
 
-## - My dream job is working as a sofrware engineer in JetBrains and i will achive my goal
+## - My dream job is working as a software engineer at JetBrains and i will achive my goal
  <img src="https://icon.icepanel.io/Technology/svg/JetBrains.svg" alt="JetBrains icon" height="124" width="124">
 
 ---
