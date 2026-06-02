@@ -1,19 +1,19 @@
 <!-- Profile -->
 
 <h1 align="center">👋 Hi, I'm <span style="color:#007acc">Alireza Yousefzadeh</span></h1>
-<h3 align="center">🧑‍💻Software Engineer | Android & iOS Developer | Cross-Platform Developer</h3>
+<h3 align="center">🧑‍💻Software Engineer | Android Developer | Kotlin & Jetpack Compose</h3>
 
 ---
 
 ## 💡 About Me
 
-I'm a Software Engineer passionate about building intuitive and user-friendly mobile applications. I love exploring new technologies and continuously improving my skills in Mobile development. 🖥️💻
+I'm a Junior Software Engineer passionate about building intuitive and user-friendly mobile applications. I love exploring new technologies and continuously improving my skills in Mobile development. 🖥️💻
 
 🧠 I'm currently learning :
 
-- 📱 **Android & IOS Development**
-- 🧩 **Kotlin MultiPlatform**
-- 🖼️ **Cross-Platform Apps**
+- 📱 **Android Development**
+- 🧩 **Kotlin Ecosystem**
+- 🖼️ **Jetpack Compose**
 
 ---
 
@@ -21,7 +21,7 @@ I'm a Software Engineer passionate about building intuitive and user-friendly mo
 
 #### 🤖 Languages & Frameworks
 
-[![My Skills](https://skillicons.dev/icons?i=kotlin,ktor,js,java,swift,dart,flutter)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=kotlin,ktor,js,swift,dart,flutter)](https://skillicons.dev)
 
 ### 🧪 Tools
 
