@@ -25,7 +25,7 @@ I'm a Junior Software Engineer passionate about building intuitive and user-frie
 
 ### 🧪 Tools
 
-[![My Skills](https://skillicons.dev/icons?i=androidstudio,firebase,gradle,idea,sqlite,vscode,notion,git,github,gitlab,appwrite,figma,md)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,firebase,gradle,idea,vscode,notion,git,github,gitlab,appwrite,figma,md)](https://skillicons.dev)
 
 ---
 
