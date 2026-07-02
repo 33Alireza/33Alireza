@@ -21,7 +21,7 @@ I'm a Junior Software Engineer passionate about building intuitive and user-frie
 
 #### 🤖 Languages & Frameworks
 
-[![My Skills](https://skillicons.dev/icons?i=kotlin,ktor,js,swift,dart,flutter)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=kotlin,ktor,js,swift,dart,rust,python)](https://skillicons.dev)
 
 ### 🧪 Tools
 
@@ -51,13 +51,6 @@ I'm a Junior Software Engineer passionate about building intuitive and user-frie
 
 ---
 
-## 🎯 Goals
-
-## - My dream job is working as a software engineer at JetBrains and i will achive my goal
- <img src="https://icon.icepanel.io/Technology/svg/JetBrains.svg" alt="JetBrains icon" height="124" width="124">
-
----
-
 ## 📂 Projects
 
 Here are some of the projects I've worked on:
@@ -65,11 +58,14 @@ Here are some of the projects I've worked on:
 1. **[KotlinFinity](https://github.com/33Alireza/KotlinFinity)**
    - KotlinFinity is a collection of Kotlin basics, examples, and explanations -- built to help beginners learn kotlin from scratch and explore its infinite possibilities.
 
-2. **[Mobile Development Roadmap 2025](https://github.com/33Alireza/Mobile.Development.Roadmap.2025)**
-   - An open-source project built to help you understand the art and science of mobile Development. Whether you’re starting your journey or expanding your expertise, this roadmap guides you through every step of creating powerful, modern apps for Android and iOS. 
+2. **[AndroidBeyond](https://github.com/33Alireza/AndroidBeyond)**
+   - This repo contains everything new that i learn in Android Dev using Kotlin and Jetpack Compose.
+
+3. **[ComposeNova](https://github.com/33Alireza/ComposeNova)**
+   -  Just pure Jetpack Compose.
   
-3. **[ArayRento](https://github.com/ArayDevelopment/ArayRento)**
-   - This repository contains a clean PHP (MVC) + MySQL real‑estate web app with property submission, multi‑image upload, and Persian (Jalali) date support.
+4. **[Mobile Development Roadmap 2025](https://github.com/33Alireza/Mobile.Development.Roadmap.2025)**
+   - An open-source project built to help you understand the art and science of mobile Development. Whether you’re starting your journey or expanding your expertise, this roadmap guides you through every step of creating powerful, modern apps for Android and iOS.
   
 ## 📫 Get in Touch
 
@@ -86,7 +82,3 @@ I'm always open to learning and collaborating with others. If you have any sugge
 ---
 
 Thank you for visiting my GitHub profile! 😊
-<!---
-33Alireza/33Alireza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
