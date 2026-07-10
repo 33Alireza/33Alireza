@@ -32,12 +32,12 @@ I'm a Junior Software Engineer passionate about building intuitive and user-frie
 ## 📈 GitHub Insights
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=33alireza&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&rank_icon=github" alt="GitHub stats" />
+  <img height="170" src="https://github-stats-extended.vercel.app/api?username=33alireza&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&rank_icon=github" alt="GitHub stats" />
   <img height="170" src="https://streak-stats.demolab.com?user=33alireza&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </div>
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=33alireza&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=33alireza&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
   <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=33alireza&theme=tokyonight" alt="Productive time" />
 </div>
 
