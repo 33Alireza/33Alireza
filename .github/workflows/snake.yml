@@ -1,35 +1,34 @@
-name: Generate Snake Game
+name: Generate Snake
 
 on:
-  # Run daily at midnight
   schedule:
     - cron: "0 0 * * *"
-  # Allow manual trigger
+
   workflow_dispatch:
 
+  push:
+    branches:
+      - main
+      - master
+
 jobs:
-  build:
-    runs-on: ubuntu-latest
+  generate:
     permissions:
-      contents: write   # Required to push the generated images
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
 
     steps:
-      - uses: actions/checkout@v4
-
-      # Generate the snake images
-      - uses: Platane/snk@v3
-        id: snake
+      - name: generate-github-contribution-grid-snake
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          # List of files to generate (one per line)
           outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-            # Optional: Add a GIF version
-            # dist/github-snake.gif
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      # Push the generated files to the repo
-      - uses: crazy-max/ghaction-github-pages@v4
+      - name: push github-contribution-grid-snake to the output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
