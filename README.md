@@ -41,10 +41,6 @@ I'm a Junior Software Engineer passionate about building intuitive and user-frie
   <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=33alireza&theme=tokyonight" alt="Productive time" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=33alireza&theme=tokyo-night&hide_border=true&area=true" alt="Activity graph" />
-</div>
-
 <h3 align="center">🐍 Snake Contribution Grid</h3>
 <p align="center">
   <picture>
