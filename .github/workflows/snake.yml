@@ -1,0 +1,37 @@
+name: Generate Snake Game
+
+on:
+  # Run daily at midnight
+  schedule:
+    - cron: "0 0 * * *"
+  # Allow manual trigger
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write   # Required to push the generated images
+
+    steps:
+      - uses: actions/checkout@v4
+
+      # Generate the snake images
+      - uses: Platane/snk@v3
+        id: snake
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          # List of files to generate (one per line)
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+            # Optional: Add a GIF version
+            # dist/github-snake.gif
+
+      # Push the generated files to the repo
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
