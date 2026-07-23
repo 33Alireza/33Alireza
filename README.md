@@ -1,6 +1,6 @@
 <!-- Profile -->
 
-<h1 align="center">👋 Hi, I'm <span style="color:#007acc">Alireza Yousefzadeh</span></h1>
+<h2 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=03A9F4FF&background=5DFF0E00&center=true&vCenter=true&repeat=false&width=435&lines=+Hi%2C+I'm+Alireza+Yousefzadeh+%F0%9F%91%8B" alt="Typing SVG" /></a></h2>
 <h3 align="center">🧑‍💻Software Engineer | Android Developer | Kotlin & Jetpack Compose</h3>
 
 ---
@@ -32,13 +32,13 @@ I'm a Junior Software Engineer passionate about building intuitive and user-frie
 ## 📈 GitHub Insights
 
 <div align="center">
-  <img height="170" src="https://github-stats-extended.vercel.app/api?username=33alireza&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&rank_icon=github" alt="GitHub stats" />
-  <img height="170" src="https://streak-stats.demolab.com?user=33alireza&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img height="170" width="400" src="https://github-stats-extended.vercel.app/api?username=33alireza&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&rank_icon=github" alt="GitHub stats" />
+  <img height="170" width="400" src="https://streak-stats.demolab.com?user=33alireza&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </div>
 
 <div align="center">
-  <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=33alireza&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=33alireza&theme=tokyonight" alt="Productive time" />
+  <img height="170" width="400" src="https://github-stats-extended.vercel.app/api/top-langs/?username=33alireza&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img height="170" width="400" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=33alireza&theme=tokyonight" alt="Productive time" />
 </div>
 
 <h3 align="center">🐍 Snake Contribution Grid</h3>
