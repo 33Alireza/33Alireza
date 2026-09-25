@@ -5,15 +5,19 @@
 
 ---
 
-## 💡 About Me
+## 👨‍💻 About Me
 
-I'm a Software Engineer passionate about building intuitive and user-friendly mobile applications. I love exploring new technologies and continuously improving my skills in Mobile development. 🖥️💻
+I'm a Software Engineer focused on Android development with Kotlin and Jetpack Compose.
+I enjoy building clean, modern mobile applications and exploring the tools and technologies behind the Android ecosystem. I'm constantly learning, experimenting, and turning what I learn into real projects.
 
-🧠 I'm currently learning :
+🧠 Currently focusing on:
 
-- 📱 **Android Development**
-- 🧩 **Kotlin Ecosystem**
-- 🖼️ **Jetpack Compose**
+- 📱 Android Development
+- 🧩 Kotlin & Kotlin Ecosystem
+- 🎨 Jetpack Compose
+- 🏗️ Modern Android Architecture
+- 🔄 Coroutines & Flow
+- 🌐 Networking & APIs
 
 ---
 
@@ -55,23 +59,36 @@ I'm a Software Engineer passionate about building intuitive and user-friendly mo
 
 ---
 
-## 📂 Projects
-
-Here are some of the projects I've worked on:
+## 📂 Featured Projects
 
 
-1. **[Movino](https://github.com/33Alireza/Movino)**
-   - Movino is a modern, responsive Android application for browsing, searching, and discovering movies. Built using 100% Jetpack Compose, MVVM Architecture, Kotlin Coroutines & Flow, * Dagger Hilt*, and Ktor Client, Movino demonstrates Modern Android Development (MAD) best practices and type-safe navigation.
+### 🎬 [Movino](https://github.com/33Alireza/Movino)
 
-2. **[KotlinFinity](https://github.com/33Alireza/KotlinFinity)**
-   - KotlinFinity is a collection of Kotlin basics, examples, and explanations -- built to help beginners learn kotlin from scratch and explore its infinite possibilities.
+A modern Android movie discovery application built entirely with **Jetpack Compose**.
 
-3. **[AndroidBeyond](https://github.com/33Alireza/AndroidBeyond)**
-   - This repo contains everything new that i learn in Android Dev using Kotlin and Jetpack Compose.
-   - 
-4. **[Mobile Development Roadmap 2025](https://github.com/33Alireza/MobileDevRoadmap)**
-   - An open-source project built to help you understand the art and science of mobile Development. Whether you’re starting your journey or expanding your expertise, this roadmap guides you through every step of creating powerful, modern apps for Android and iOS.
-  
+**Tech:** Kotlin · Jetpack Compose · MVVM · Coroutines · Flow · Ktor Client · Dagger Hilt · Type-safe Navigation
+
+---
+
+### 🟣 [KotlinFinity](https://github.com/33Alireza/KotlinFinity)
+
+A collection of **Kotlin fundamentals, examples, and explanations** designed to help developers learn Kotlin from the ground up.
+
+> Learn. Build. Explore. Kotlinfinity.
+
+---
+
+### 🤖 [AndroidBeyond](https://github.com/33Alireza/AndroidBeyond)
+
+A personal Android development knowledge base where I document and experiment with things I learn while developing with **Kotlin and Jetpack Compose**.
+
+---
+
+### 🗺️ [Mobile Development Roadmap](https://github.com/33Alireza/MobileDevRoadmap)
+
+An open-source roadmap covering the journey of becoming a mobile developer, from fundamentals to modern **Android and iOS development**.
+
+
 ## 📫 Get in Touch
 
 <p align="center">
