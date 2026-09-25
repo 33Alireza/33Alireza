@@ -7,7 +7,7 @@
 
 ## 💡 About Me
 
-I'm a Junior Software Engineer passionate about building intuitive and user-friendly mobile applications. I love exploring new technologies and continuously improving my skills in Mobile development. 🖥️💻
+I'm a Software Engineer passionate about building intuitive and user-friendly mobile applications. I love exploring new technologies and continuously improving my skills in Mobile development. 🖥️💻
 
 🧠 I'm currently learning :
 
@@ -59,15 +59,16 @@ I'm a Junior Software Engineer passionate about building intuitive and user-frie
 
 Here are some of the projects I've worked on:
 
-1. **[KotlinFinity](https://github.com/33Alireza/KotlinFinity)**
+
+1. **[Movino](https://github.com/33Alireza/Movino)**
+   - Movino is a modern, responsive Android application for browsing, searching, and discovering movies. Built using 100% Jetpack Compose, MVVM Architecture, Kotlin Coroutines & Flow, * Dagger Hilt*, and Ktor Client, Movino demonstrates Modern Android Development (MAD) best practices and type-safe navigation.
+
+2. **[KotlinFinity](https://github.com/33Alireza/KotlinFinity)**
    - KotlinFinity is a collection of Kotlin basics, examples, and explanations -- built to help beginners learn kotlin from scratch and explore its infinite possibilities.
 
-2. **[AndroidBeyond](https://github.com/33Alireza/AndroidBeyond)**
+3. **[AndroidBeyond](https://github.com/33Alireza/AndroidBeyond)**
    - This repo contains everything new that i learn in Android Dev using Kotlin and Jetpack Compose.
-
-3. **[ComposeNova](https://github.com/33Alireza/ComposeNova)**
-   -  Just pure Jetpack Compose.
-  
+   - 
 4. **[Mobile Development Roadmap 2025](https://github.com/33Alireza/MobileDevRoadmap)**
    - An open-source project built to help you understand the art and science of mobile Development. Whether you’re starting your journey or expanding your expertise, this roadmap guides you through every step of creating powerful, modern apps for Android and iOS.
   
