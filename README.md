@@ -22,8 +22,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,androidstudio,firebase,gradle,idea,webstorm,vscode,notion,git,github,gitlab,appwrite,figma,md)](https://skillicons.dev)
 
----
-
 ## 📈 GitHub Insights
 
 <div align="center">
@@ -47,8 +45,6 @@
     />
   </picture>
 </p>
-
----
 
 ## 📂 Featured Projects
 
