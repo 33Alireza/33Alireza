@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="260" viewBox="0 0 1000 260" role="img" aria-label="Alireza Yousefzadeh, Android Developer">
+<defs>
+<pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#fff" fill-opacity=".09"/></pattern>
+<radialGradient id="glow" cx="50%" cy="50%" r="50%"><stop offset="0" stop-color="#2f81f7" stop-opacity=".34"/><stop offset="1" stop-color="#2f81f7" stop-opacity="0"/></radialGradient>
+<linearGradient id="nm" x1="0" x2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#58a6ff"/></linearGradient>
+<clipPath id="scr"><rect x="778" y="51" width="104" height="186"/></clipPath>
+</defs>
+<style>
+text{font-family:'JetBrains Mono','Fira Code','IBM Plex Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}
+.sans{font-family:'Segoe UI','Helvetica Neue',Arial,sans-serif}
+.a{opacity:0;animation:rise .8s cubic-bezier(.2,.7,.2,1) forwards}
+@keyframes rise{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:translateY(0)}}
+@keyframes spin{to{transform:rotate(360deg)}}
+@keyframes spinr{to{transform:rotate(-360deg)}}
+@keyframes pulse{0%,100%{opacity:.55}50%{opacity:1}}
+@keyframes ping{0%{transform:scale(1);opacity:.7}100%{transform:scale(3);opacity:0}}
+@keyframes blink{50%{opacity:0}}
+@keyframes pop{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:translateY(0)}}
+.pl{animation:pulse 2.4s ease-in-out infinite}
+.ping{transform-box:fill-box;transform-origin:center;animation:ping 2s ease-out infinite}
+.cb{animation:blink 1s steps(1) infinite}
+.p{opacity:0;animation:pop .55s ease-out forwards}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}.a,.p{opacity:1}}
+
+@keyframes float{from{transform:translateY(-6px)}to{transform:translateY(6px)}}
+@keyframes scroll{to{transform:translateY(-112px)}}
+.fl{animation:float 5s ease-in-out infinite alternate}
+.fl2{animation:float 6s ease-in-out infinite alternate}
+.scr{animation:scroll 7s linear infinite}
+</style>
+<rect x="1" y="1" width="998" height="258" rx="16" fill="#0d1117" stroke="#2a3140"/>
+<rect x="1" y="1" width="998" height="258" rx="16" fill="url(#dots)"/>
+<circle cx="860" cy="215" r="210" fill="url(#glow)"/>
+
+<text class="a" x="64" y="62" font-size="14" fill="#9aa4b2" style="animation-delay:.1s" xml:space="preserve"><tspan fill="#58a6ff">package</tspan> dev.alireza<tspan class="cb" fill="#58a6ff"> _</tspan></text>
+<text class="a sans" x="62" y="124" font-size="54" font-weight="700" fill="url(#nm)" letter-spacing="-1.5" style="animation-delay:.25s">Alireza Yousefzadeh</text>
+<text class="a" x="64" y="162" font-size="22" font-weight="700" fill="#58a6ff" style="animation-delay:.4s">Android Developer</text>
+<text class="a" x="64" y="188" font-size="15" fill="#9aa4b2" style="animation-delay:.5s">Software Engineer · Kotlin &amp; Jetpack Compose</text>
+<g class="a" style="animation-delay:.65s">
+<rect x="64" y="212" width="226" height="30" rx="15" fill="#161b22" stroke="#2a3140"/>
+<circle class="ping" cx="84" cy="227" r="4" fill="#3ddc84"/><circle cx="84" cy="227" r="4" fill="#3ddc84"/>
+<text x="98" y="232" font-size="13" fill="#9aa4b2">Open to collaboration</text>
+</g>
+
+<g class="fl" style="animation-delay:0.0s"><rect x="664" y="44" width="86" height="26" rx="13" fill="#161b22" stroke="#3b4456"/><text x="707" y="61" font-size="12" text-anchor="middle" fill="#58a6ff">Compose</text></g><g class="fl2" style="animation-delay:-2.0s"><rect x="698" y="190" width="58" height="26" rx="13" fill="#161b22" stroke="#3b4456"/><text x="727" y="207" font-size="12" text-anchor="middle" fill="#58a6ff">Flow</text></g><g class="fl2" style="animation-delay:-1.0s"><rect x="906" y="62" width="56" height="26" rx="13" fill="#161b22" stroke="#3b4456"/><text x="934" y="79" font-size="12" text-anchor="middle" fill="#58a6ff">Ktor</text></g><g class="fl" style="animation-delay:-3.0s"><rect x="900" y="196" width="56" height="26" rx="13" fill="#161b22" stroke="#3b4456"/><text x="928" y="213" font-size="12" text-anchor="middle" fill="#58a6ff">Hilt</text></g>
+
+<g transform="rotate(-5 830 130)"><g class="fl2" style="animation-delay:-1.5s">
+<rect x="772" y="17" width="116" height="226" rx="20" fill="#161b22" stroke="#3b4456" stroke-width="2"/>
+<rect x="778" y="23" width="104" height="214" rx="14" fill="#0d1117"/>
+<g clip-path="url(#scr)"><g class="scr"><rect x="786" y="59" width="88" height="44" rx="8" fill="#1c2230" stroke="#2a3140"/><circle cx="801" cy="81" r="9" fill="#2f81f7" fill-opacity=".85"/><rect x="816" y="73" width="50" height="6" rx="3" fill="#e6edf3" fill-opacity=".55"/><rect x="816" y="85" width="34" height="5" rx="2.5" fill="#9aa4b2" fill-opacity=".5"/><rect x="786" y="115" width="88" height="44" rx="8" fill="#1c2230" stroke="#2a3140"/><circle cx="801" cy="137" r="9" fill="#3ddc84" fill-opacity=".85"/><rect x="816" y="129" width="40" height="6" rx="3" fill="#e6edf3" fill-opacity=".55"/><rect x="816" y="141" width="56" height="5" rx="2.5" fill="#9aa4b2" fill-opacity=".5"/><rect x="786" y="171" width="88" height="44" rx="8" fill="#1c2230" stroke="#2a3140"/><circle cx="801" cy="193" r="9" fill="#2f81f7" fill-opacity=".85"/><rect x="816" y="185" width="50" height="6" rx="3" fill="#e6edf3" fill-opacity=".55"/><rect x="816" y="197" width="34" height="5" rx="2.5" fill="#9aa4b2" fill-opacity=".5"/><rect x="786" y="227" width="88" height="44" rx="8" fill="#1c2230" stroke="#2a3140"/><circle cx="801" cy="249" r="9" fill="#3ddc84" fill-opacity=".85"/><rect x="816" y="241" width="40" height="6" rx="3" fill="#e6edf3" fill-opacity=".55"/><rect x="816" y="253" width="56" height="5" rx="2.5" fill="#9aa4b2" fill-opacity=".5"/><rect x="786" y="283" width="88" height="44" rx="8" fill="#1c2230" stroke="#2a3140"/><circle cx="801" cy="305" r="9" fill="#2f81f7" fill-opacity=".85"/><rect x="816" y="297" width="50" height="6" rx="3" fill="#e6edf3" fill-opacity=".55"/><rect x="816" y="309" width="34" height="5" rx="2.5" fill="#9aa4b2" fill-opacity=".5"/><rect x="786" y="339" width="88" height="44" rx="8" fill="#1c2230" stroke="#2a3140"/><circle cx="801" cy="361" r="9" fill="#3ddc84" fill-opacity=".85"/><rect x="816" y="353" width="40" height="6" rx="3" fill="#e6edf3" fill-opacity=".55"/><rect x="816" y="365" width="56" height="5" rx="2.5" fill="#9aa4b2" fill-opacity=".5"/></g></g>
+<path d="M778 37a14 14 0 0 1 14-14h76a14 14 0 0 1 14 14v14H778z" fill="#2f81f7"/>
+<circle cx="830" cy="31" r="2.5" fill="#0d1117"/>
+<rect x="788" y="38" width="38" height="5" rx="2.5" fill="#fff" fill-opacity=".85"/>
+<circle cx="862" cy="214" r="12" fill="#2f81f7"/><path d="M862 208v12M856 214h12" stroke="#fff" stroke-width="2" stroke-linecap="round"/>
+<rect x="812" y="230" width="36" height="3" rx="1.5" fill="#e6edf3" fill-opacity=".4"/>
+</g></g>
+</svg>

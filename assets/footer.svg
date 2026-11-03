@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="130" viewBox="0 0 1000 130" role="img" aria-label="Footer">
+<defs><linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#0d1117"/><stop offset=".55" stop-color="#1a3a6b"/><stop offset="1" stop-color="#2f81f7"/></linearGradient></defs>
+<style>text{font-family:'JetBrains Mono','Fira Code','IBM Plex Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}</style>
+<path fill="url(#g)" opacity=".45" d="M0 56 C150 20 350 92 500 56 S850 20 1000 56 V130 H0Z"><animate attributeName="d" dur="9s" repeatCount="indefinite" values="M0 56 C150 20 350 92 500 56 S850 20 1000 56 V130 H0Z;M0 56 C150 92 350 20 500 56 S850 92 1000 56 V130 H0Z;M0 56 C150 20 350 92 500 56 S850 20 1000 56 V130 H0Z"/></path>
+<path fill="url(#g)" d="M0 76 C180 44 320 108 500 76 S820 44 1000 76 V130 H0Z"><animate attributeName="d" dur="7s" repeatCount="indefinite" values="M0 76 C180 44 320 108 500 76 S820 44 1000 76 V130 H0Z;M0 76 C180 108 320 44 500 76 S820 108 1000 76 V130 H0Z;M0 76 C180 44 320 108 500 76 S820 44 1000 76 V130 H0Z"/></path>
+<text x="500" y="108" font-size="13" text-anchor="middle" fill="#e6edf3">// learn. build. explore.</text>
+</svg>

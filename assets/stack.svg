@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="416" viewBox="0 0 1000 416" role="img" aria-label="Tech stack">
+<style>
+text{font-family:'JetBrains Mono','Fira Code','IBM Plex Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}
+.sans{font-family:'Segoe UI','Helvetica Neue',Arial,sans-serif}
+.a{opacity:0;animation:rise .8s cubic-bezier(.2,.7,.2,1) forwards}
+@keyframes rise{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:translateY(0)}}
+@keyframes spin{to{transform:rotate(360deg)}}
+@keyframes spinr{to{transform:rotate(-360deg)}}
+@keyframes pulse{0%,100%{opacity:.55}50%{opacity:1}}
+@keyframes ping{0%{transform:scale(1);opacity:.7}100%{transform:scale(3);opacity:0}}
+@keyframes blink{50%{opacity:0}}
+@keyframes pop{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:translateY(0)}}
+.pl{animation:pulse 2.4s ease-in-out infinite}
+.ping{transform-box:fill-box;transform-origin:center;animation:ping 2s ease-out infinite}
+.cb{animation:blink 1s steps(1) infinite}
+.p{opacity:0;animation:pop .55s ease-out forwards}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}.a,.p{opacity:1}}
+</style>
+<rect x="0" y="0" width="491" height="180" rx="12" fill="#161b22" stroke="#2a3140"/>
+<rect x="24" y="22" width="10" height="10" rx="2" fill="#2f81f7"/>
+<text x="42" y="32" font-size="14" font-weight="700" fill="#e6edf3">Android</text>
+<g class="p" style="animation-delay:0.07s"><rect x="24" y="54" width="75" height="30" rx="8" fill="#0f2240" stroke="#2f81f7"/><text x="61" y="74" font-size="13" text-anchor="middle" fill="#58a6ff">Kotlin</text></g>
+<g class="p" style="animation-delay:0.14s"><rect x="107" y="54" width="146" height="30" rx="8" fill="#0f2240" stroke="#2f81f7"/><text x="180" y="74" font-size="13" text-anchor="middle" fill="#58a6ff">Jetpack Compose</text></g>
+<g class="p" style="animation-delay:0.21s"><rect x="261" y="54" width="107" height="30" rx="8" fill="#1c2230" stroke="#3b4456"/><text x="314" y="74" font-size="13" text-anchor="middle" fill="#e6edf3">Material 3</text></g>
+<g class="p" style="animation-delay:0.28s"><rect x="376" y="54" width="59" height="30" rx="8" fill="#1c2230" stroke="#3b4456"/><text x="405" y="74" font-size="13" text-anchor="middle" fill="#e6edf3">MVVM</text></g>
+<g class="p" style="animation-delay:0.35s"><rect x="24" y="92" width="107" height="30" rx="8" fill="#1c2230" stroke="#3b4456"/><text x="77" y="112" font-size="13" text-anchor="middle" fill="#e6edf3">Coroutines</text></g>
+<g class="p" style="animation-delay:0.42s"><rect x="139" y="92" width="59" height="30" rx="8" fill="#1c2230" stroke="#3b4456"/><text x="168" y="112" font-size="13" text-anchor="middle" fill="#e6edf3">Flow</text></g>
+<g class="p" style="animation-delay:0.49s"><rect x="206" y="92" width="114" height="30" rx="8" fill="#1c2230" stroke="#3b4456"/><text x="263" y="112" font-size="13" text-anchor="middle" fill="#e6edf3">Dagger Hilt</text></g>
+<g class="p" style="animation-delay:0.56s"><rect x="24" y="130" width="186" height="30" rx="8" fill="#1c2230" stroke="#3b4456"/><text x="117" y="150" font-size="13" text-anchor="middle" fill="#e6edf3">Type-safe Navigation</text></g>
+<rect x="509" y="0" width="491" height="180" rx="12" fill="#161b22" stroke="#2a3140"/>
+<rect x="533" y="22" width="10" height="10" rx="2" fill="#2f81f7"/>
+<text x="551" y="32" font-size="14" font-weight="700" fill="#e6edf3">Multiplatform &amp; Networking</text>
+<g class="p" style="animation-delay:0.63s"><rect x="533" y="54" width="186" height="30" rx="8" fill="#0f2240" stroke="#2f81f7"/><text x="626" y="74" font-size="13" text-anchor="middle" fill="#58a6ff">Kotlin Multiplatform</text></g>
+<g class="p" style="animation-delay:0.70s"><rect x="727" y="54" width="193" height="30" rx="8" fill="#0f2240" stroke="#2f81f7"/><text x="823" y="74" font-size="13" text-anchor="middle" fill="#58a6ff">Compose Multiplatform</text></g>
+<g class="p" style="animation-delay:0.77s"><rect x="533" y="92" width="59" height="30" rx="8" fill="#1c2230" stroke="#3b4456"/><text x="562" y="112" font-size="13" text-anchor="middle" fill="#e6edf3">Ktor</text></g>
+<g class="p" style="animation-delay:0.84s"><rect x="600" y="92" width="59" height="30" rx="8" fill="#1c2230" stroke="#3b4456"/><text x="629" y="112" font-size="13" text-anchor="middle" fill="#e6edf3">Koin</text></g>
+<g class="p" style="animation-delay:0.91s"><rect x="667" y="92" width="91" height="30" rx="8" fill="#1c2230" stroke="#3b4456"/><text x="712" y="112" font-size="13" text-anchor="middle" fill="#e6edf3">MapLibre</text></g>
+<rect x="0" y="198" width="491" height="218" rx="12" fill="#161b22" stroke="#2a3140"/>
+<rect x="24" y="220" width="10" height="10" rx="2" fill="#2f81f7"/>
+<text x="42" y="230" font-size="14" font-weight="700" fill="#e6edf3">More Languages &amp; Frameworks</text>
+<g class="p" style="animation-delay:0.98s"><rect x="24" y="252" width="107" height="30" rx="8" fill="#1c2230" stroke="#3b4456"/><text x="77" y="272" font-size="13" text-anchor="middle" fill="#e6edf3">JavaScript</text></g>
+<g class="p" style="animation-delay:1.05s"><rect x="139" y="252" width="107" height="30" rx="8" fill="#1c2230" stroke="#3b4456"/><text x="192" y="272" font-size="13" text-anchor="middle" fill="#e6edf3">TypeScript</text></g>
+<g class="p" style="animation-delay:1.12s"><rect x="254" y="252" width="67" height="30" rx="8" fill="#1c2230" stroke="#3b4456"/><text x="287" y="272" font-size="13" text-anchor="middle" fill="#e6edf3">Swift</text></g>
+<g class="p" style="animation-delay:1.19s"><rect x="329" y="252" width="83" height="30" rx="8" fill="#1c2230" stroke="#3b4456"/><text x="370" y="272" font-size="13" text-anchor="middle" fill="#e6edf3">Next.js</text></g>
+<rect x="509" y="198" width="491" height="218" rx="12" fill="#161b22" stroke="#2a3140"/>
+<rect x="533" y="220" width="10" height="10" rx="2" fill="#2f81f7"/>
+<text x="551" y="230" font-size="14" font-weight="700" fill="#e6edf3">Tools &amp; Platforms</text>
+<g class="p" style="animation-delay:1.26s"><rect x="533" y="252" width="138" height="30" rx="8" fill="#1c2230" stroke="#3b4456"/><text x="602" y="272" font-size="13" text-anchor="middle" fill="#e6edf3">Android Studio</text></g>
+<g class="p" style="animation-delay:1.33s"><rect x="679" y="252" width="130" height="30" rx="8" fill="#1c2230" stroke="#3b4456"/><text x="744" y="272" font-size="13" text-anchor="middle" fill="#e6edf3">IntelliJ IDEA</text></g>
+<g class="p" style="animation-delay:1.40s"><rect x="817" y="252" width="91" height="30" rx="8" fill="#1c2230" stroke="#3b4456"/><text x="862" y="272" font-size="13" text-anchor="middle" fill="#e6edf3">WebStorm</text></g>
+<g class="p" style="animation-delay:1.47s"><rect x="533" y="290" width="83" height="30" rx="8" fill="#1c2230" stroke="#3b4456"/><text x="574" y="310" font-size="13" text-anchor="middle" fill="#e6edf3">VS Code</text></g>
+<g class="p" style="animation-delay:1.54s"><rect x="624" y="290" width="75" height="30" rx="8" fill="#1c2230" stroke="#3b4456"/><text x="661" y="310" font-size="13" text-anchor="middle" fill="#e6edf3">Gradle</text></g>
+<g class="p" style="animation-delay:1.61s"><rect x="707" y="290" width="91" height="30" rx="8" fill="#1c2230" stroke="#3b4456"/><text x="752" y="310" font-size="13" text-anchor="middle" fill="#e6edf3">Firebase</text></g>
+<g class="p" style="animation-delay:1.68s"><rect x="806" y="290" width="91" height="30" rx="8" fill="#1c2230" stroke="#3b4456"/><text x="851" y="310" font-size="13" text-anchor="middle" fill="#e6edf3">Appwrite</text></g>
+<g class="p" style="animation-delay:1.75s"><rect x="905" y="290" width="67" height="30" rx="8" fill="#1c2230" stroke="#3b4456"/><text x="938" y="310" font-size="13" text-anchor="middle" fill="#e6edf3">Figma</text></g>
+<g class="p" style="animation-delay:1.82s"><rect x="533" y="328" width="75" height="30" rx="8" fill="#1c2230" stroke="#3b4456"/><text x="570" y="348" font-size="13" text-anchor="middle" fill="#e6edf3">Notion</text></g>
+<g class="p" style="animation-delay:1.89s"><rect x="616" y="328" width="51" height="30" rx="8" fill="#1c2230" stroke="#3b4456"/><text x="641" y="348" font-size="13" text-anchor="middle" fill="#e6edf3">Git</text></g>
+<g class="p" style="animation-delay:1.96s"><rect x="675" y="328" width="75" height="30" rx="8" fill="#1c2230" stroke="#3b4456"/><text x="712" y="348" font-size="13" text-anchor="middle" fill="#e6edf3">GitHub</text></g>
+<g class="p" style="animation-delay:2.03s"><rect x="758" y="328" width="75" height="30" rx="8" fill="#1c2230" stroke="#3b4456"/><text x="795" y="348" font-size="13" text-anchor="middle" fill="#e6edf3">GitLab</text></g>
+<g class="p" style="animation-delay:2.10s"><rect x="841" y="328" width="67" height="30" rx="8" fill="#1c2230" stroke="#3b4456"/><text x="874" y="348" font-size="13" text-anchor="middle" fill="#e6edf3">Linux</text></g>
+<g class="p" style="animation-delay:2.17s"><rect x="533" y="366" width="75" height="30" rx="8" fill="#1c2230" stroke="#3b4456"/><text x="570" y="386" font-size="13" text-anchor="middle" fill="#e6edf3">Ubuntu</text></g>
+</svg>

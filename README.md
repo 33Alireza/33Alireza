@@ -1,27 +1,18 @@
 <!-- Profile -->
 
-<h2 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=03A9F4FF&background=5DFF0E00&center=true&vCenter=true&repeat=false&width=435&lines=+Hi%2C+I'm+Alireza+Yousefzadeh+%F0%9F%91%8B" alt="Typing SVG" /></a></h2>
-<h3 align="center">🧑‍💻Software Engineer | Android Developer | Kotlin & Jetpack Compose</h3>
-
----
+<img src="./assets/header.svg" alt="Alireza Yousefzadeh - Software Engineer, Android Developer" width="100%" />
 
 ## 👨‍💻 About Me
 
-I'm a Software Engineer focused on Android development with Kotlin and Jetpack Compose.
-I enjoy building clean, modern mobile applications and exploring the tools and technologies behind the Android ecosystem. I'm constantly learning, experimenting, and turning what I learn into real projects.
-
-🧠 Currently focusing on:
-
-- 📱 Android Development
-- 🧩 Kotlin & Kotlin Ecosystem
-- 🎨 Jetpack Compose
-- 🏗️ Modern Android Architecture
-- 🔄 Coroutines & Flow
-- 🌐 Networking & APIs
-
----
+<div align="center">
+<img src="./assets/about.svg" alt="About Alireza Yousefzadeh" width="100%" />
+</div>
 
 ### 🚀 Tech Stack
+
+<div align="center">
+<img src="./assets/stack.svg" alt="Tech stack" width="100%" />
+</div>
 
 #### 🤖 Languages & Frameworks
 
